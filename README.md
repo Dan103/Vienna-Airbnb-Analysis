@@ -1,4 +1,4 @@
-# Vienna-Airbnb-Analysis - [Dashboard Link](https://public.tableau.com/app/profile/danylo.butynskyy/viz/ViennaAirbnbAnalysis/AirbnbDashboard)
+# Vienna Airbnb Analysis - [Dashboard Link](https://public.tableau.com/app/profile/danylo.butynskyy/viz/ViennaAirbnbAnalysis/AirbnbDashboard)
 
 
 ## Inhaltsverzeichnis
